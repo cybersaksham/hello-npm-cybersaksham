@@ -5,7 +5,7 @@
 
 ## Using
 ```
-import { helloWorld } from 'helloWorld';
+import { helloWorld } from 'hello-npm-cybersaksham';
 
 helloWorld();
 ```
