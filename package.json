@@ -1,0 +1,24 @@
+{
+  "name": "hello-npm-cybersaksham",
+  "version": "1.0.0",
+  "description": "NPM package to print hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybersaksham/hello-npm-cybersaksham.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "npm"
+  ],
+  "author": "cybersaksham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cybersaksham/hello-npm-cybersaksham/issues"
+  },
+  "homepage": "https://github.com/cybersaksham/hello-npm-cybersaksham#readme"
+}
